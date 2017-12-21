@@ -1,0 +1,2 @@
+# LJS
+learning JS
